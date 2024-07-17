@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartSecure</string>
+    <string name="image">Image</string>
+    <string name="smartsecureapp">SmartSecureApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="client_id">478617340724-s34c5jdbthbskn7ls5pqbs39l0g2jf57.apps.googleusercontent.com</string>
+    <string name="registration">Registration</string>
+</resources>
